@@ -17,3 +17,5 @@ A collection of terms related to coronavirus disease 2019
 * Cordon sanitaire
 * Travel restrictions
 * Border closure
+* Curfew
+* Movement restriction
