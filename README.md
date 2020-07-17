@@ -12,7 +12,7 @@ A collection of terms related to coronavirus disease 2019
 ## Interventions/countermeasures
 * Social distancing/physical distancing
 * Lockdown/shelter-in-place
-* Self-isolation
+* Self-isolation/Case isolation at home
 * Quarantine
 * Cordon sanitaire
 * Travel restrictions
