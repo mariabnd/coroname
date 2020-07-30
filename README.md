@@ -1,6 +1,6 @@
 # coroname
 
-A collection of terms related to coronavirus disease 2019
+A collection of terms related to coronavirus disease 2019 that might be useful for literature scoping
 
 ## Virus
 * nCov2019
@@ -19,3 +19,6 @@ A collection of terms related to coronavirus disease 2019
 * Border closure
 * Curfew
 * Movement restriction
+### Lifting interventions
+* Exit strategy
+* Re-opening
