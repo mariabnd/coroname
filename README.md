@@ -3,11 +3,16 @@
 A collection of terms related to coronavirus disease 2019 that might be useful for literature scoping
 
 ## Virus
-* nCov2019
-* SARS-CoV-2
+* 2019 novel coronavirus/nCov2019/2019-nCoV
+* severe acute respiratory syndrome coronavirus 2/SARS-CoV-2
+* human coronavirus 2019/HCoV-19
 
 ## Disease
-* COVID-19
+* coronavirus disease 2019/COVID-19
+* 2019-nCoV acute respiratory disease
+* novel coronavirus pneumonia
+* severe pneumonia with novel pathogens
+* undiagnosed pneumonia
 
 ## Interventions/countermeasures
 * Social distancing/physical distancing
@@ -22,3 +27,4 @@ A collection of terms related to coronavirus disease 2019 that might be useful f
 ### Lifting interventions
 * Exit strategy
 * Re-opening
+* Relaxing
