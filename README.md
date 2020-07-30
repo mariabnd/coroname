@@ -20,7 +20,7 @@ A collection of terms related to coronavirus disease 2019 that might be useful f
 * Self-isolation/Case isolation at home
 * Quarantine
 * Cordon sanitaire
-* Travel restrictions
+* Travel restrictions/Travel ban
 * Border closure
 * Curfew
 * Movement restriction
