@@ -28,3 +28,7 @@ A collection of terms related to coronavirus disease 2019 that might be useful f
 * Exit strategy
 * Re-opening
 * Relaxing
+
+## Monitoring
+* Sewage
+* Wastewater
