@@ -3,6 +3,7 @@
 A collection of terms related to coronavirus disease 2019 that might be useful for literature scoping
 
 ## Virus
+* pneumonia of unknown etiology
 * 2019 novel coronavirus/nCov2019/2019-nCoV
 * severe acute respiratory syndrome coronavirus 2/SARS-CoV-2
 * human coronavirus 2019/HCoV-19
