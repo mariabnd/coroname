@@ -25,7 +25,7 @@ A collection of terms related to coronavirus disease 2019 that might be useful f
 * Border closure
 * Curfew
 * Movement restriction
-* Contact tracking/track-and-trace
+* Contact tracking/track-and-trace/test, trace, isolate (TTI)
 
 ### Lifting interventions
 * Exit strategy
