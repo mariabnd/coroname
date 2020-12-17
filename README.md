@@ -36,3 +36,10 @@ A collection of terms related to coronavirus disease 2019 that might be useful f
 ## Monitoring
 * Sewage
 * Wastewater
+
+## Underreporting
+* Underascertainment
+* Underestimation
+* Fold change
+* Multiplication factors
+* Expansion factors
