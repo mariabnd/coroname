@@ -7,6 +7,11 @@ A collection of terms related to coronavirus disease 2019 that might be useful f
 * severe acute respiratory syndrome coronavirus 2/SARS-CoV-2
 * human coronavirus 2019/HCoV-19
 
+### Variants
+* Cluster 5
+* VUI-202012/01/VOC-202012/01/B.1.1.7
+* 501Y.V2
+
 ## Disease
 * pneumonia of unknown etiology
 * coronavirus disease 2019/COVID-19
